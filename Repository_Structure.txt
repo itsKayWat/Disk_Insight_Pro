@@ -1,0 +1,10 @@
+DiskInsightPro/
+├── src/
+│   ├── diskinsightpro.py
+│   └── utils/
+├── docs/
+│   ├── readme.txt
+│   └── readme.html
+├── requirements.txt
+├── LICENSE
+└── .gitignore
