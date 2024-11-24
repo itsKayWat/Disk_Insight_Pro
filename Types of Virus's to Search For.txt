@@ -1,0 +1,217 @@
+Here is a comprehensive list of **virus types** and the **attacks/infections** associated with them. Each type targets computers in different ways, causing various forms of damage or disruptions:
+
+---
+
+### 1. **File Infecting Viruses**
+   - **Attack/Infection Methods**:
+     - Attach to executable files (.exe, .com).
+     - Run when the infected program is launched.
+     - Corrupt or delete programs and data.
+   - **Examples**:
+     - Cascade
+     - Friday the 13th
+
+---
+
+### 2. **Boot Sector Viruses**
+   - **Attack/Infection Methods**:
+     - Infect the boot sector of storage devices (hard drives, USB drives).
+     - Activate when the computer boots up.
+     - Prevent system startup or corrupt system files.
+   - **Examples**:
+     - Michelangelo
+     - Stone
+
+---
+
+### 3. **Macro Viruses**
+   - **Attack/Infection Methods**:
+     - Embed within document macros (e.g., Word, Excel).
+     - Execute when the document is opened.
+     - Spread through shared documents.
+   - **Examples**:
+     - Melissa
+     - Concept
+
+---
+
+### 4. **Polymorphic Viruses**
+   - **Attack/Infection Methods**:
+     - Alter their code to evade detection.
+     - Infect multiple files or systems.
+     - Difficult for signature-based antivirus software to detect.
+   - **Examples**:
+     - Storm Worm
+     - Marburg
+
+---
+
+### 5. **Resident Viruses**
+   - **Attack/Infection Methods**:
+     - Embed themselves in system memory.
+     - Execute malicious actions without a host file.
+     - Spread to other files or programs over time.
+   - **Examples**:
+     - CMJ
+     - Randex
+
+---
+
+### 6. **Multipartite Viruses**
+   - **Attack/Infection Methods**:
+     - Infect both boot sectors and executable files.
+     - Spread in multiple ways, making them harder to remove.
+   - **Examples**:
+     - Invader
+     - Flip
+
+---
+
+### 7. **Email Viruses**
+   - **Attack/Infection Methods**:
+     - Spread through email attachments or phishing links.
+     - Execute when the attachment is opened.
+     - Use contact lists to further spread.
+   - **Examples**:
+     - ILOVEYOU
+     - Nimda
+
+---
+
+### 8. **Web Scripting Viruses**
+   - **Attack/Infection Methods**:
+     - Exploit browser vulnerabilities.
+     - Inject malicious scripts into websites.
+     - Redirect users or steal data through fake forms or links.
+   - **Examples**:
+     - Cross-Site Scripting (XSS) attacks
+
+---
+
+### 9. **Network Viruses**
+   - **Attack/Infection Methods**:
+     - Spread across networks to multiple systems.
+     - Exploit vulnerabilities in network protocols.
+     - Cause denial-of-service (DoS) or data theft.
+   - **Examples**:
+     - Nimda
+     - SQL Slammer
+
+---
+
+### 10. **Worms** (Not technically viruses but often included)
+   - **Attack/Infection Methods**:
+     - Self-replicating; no host file needed.
+     - Spread through networks, email, or removable drives.
+     - Consume bandwidth, crash networks, or install backdoors.
+   - **Examples**:
+     - Mydoom
+     - Conficker
+
+---
+
+### 11. **Ransomware**
+   - **Attack/Infection Methods**:
+     - Encrypt files or lock users out of systems.
+     - Demand ransom for decryption keys.
+     - Spread through phishing, exploits, or downloads.
+   - **Examples**:
+     - WannaCry
+     - Locky
+
+---
+
+### 12. **Trojan Horse Viruses**
+   - **Attack/Infection Methods**:
+     - Disguise as legitimate software.
+     - Execute backdoor or spyware functions.
+     - Deliver other malware (ransomware, spyware, etc.).
+   - **Examples**:
+     - Zeus
+     - SpyEye
+
+---
+
+### 13. **Spyware**
+   - **Attack/Infection Methods**:
+     - Track user activity and collect data without consent.
+     - Record keystrokes, steal credentials, or monitor browsing.
+   - **Examples**:
+     - CoolWebSearch
+     - Gator
+
+---
+
+### 14. **Adware**
+   - **Attack/Infection Methods**:
+     - Display intrusive ads.
+     - Redirect users to ad-laden or malicious websites.
+     - May slow down the system.
+   - **Examples**:
+     - Fireball
+     - Appearch
+
+---
+
+### 15. **Rootkits**
+   - **Attack/Infection Methods**:
+     - Hide malware in the system.
+     - Provide attackers with administrator-level access.
+     - Evade antivirus detection by masking malicious processes.
+   - **Examples**:
+     - NTRootkit
+     - Zeus Rootkit
+
+---
+
+### 16. **Keyloggers**
+   - **Attack/Infection Methods**:
+     - Record every keystroke.
+     - Steal passwords, credit card numbers, and sensitive data.
+   - **Examples**:
+     - Wolfeye Keylogger
+     - Refog
+
+---
+
+### 17. **Logic Bombs**
+   - **Attack/Infection Methods**:
+     - Trigger malicious actions when specific conditions are met.
+     - Cause data corruption, deletion, or other damages.
+   - **Examples**:
+     - Time Bombs
+     - Trojan Viruses with logic triggers
+
+---
+
+### 18. **Fileless Malware**
+   - **Attack/Infection Methods**:
+     - Operates in system memory without leaving a file footprint.
+     - Exploit legitimate system tools like PowerShell.
+     - Evade traditional antivirus measures.
+   - **Examples**:
+     - Kovter
+     - Poweliks
+
+---
+
+### 19. **Mobile Viruses**
+   - **Attack/Infection Methods**:
+     - Infect mobile operating systems (Android, iOS).
+     - Spread through malicious apps or phishing.
+     - Steal data or send spam messages.
+   - **Examples**:
+     - HummingBad
+     - Pegasus
+
+---
+
+### 20. **IoT Malware**
+   - **Attack/Infection Methods**:
+     - Target smart devices (e.g., cameras, thermostats).
+     - Form botnets for DDoS attacks or exploit networks.
+   - **Examples**:
+     - Mirai Botnet
+     - Reaper
+
+---
